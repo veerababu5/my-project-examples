@@ -1,0 +1,5 @@
+git reset --soft "HEAD^"       ==> this command is used to remove the latest commit id in local
+
+git push --force origin <"branch name">      ==> this command is used to remove the latest commit id's to push the remote
+
+
